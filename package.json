@@ -7,7 +7,7 @@
     "test": "node -e \"require('minimist'); require('lodash'); console.log('ok')\""
   },
   "dependencies": {
-    "lodash": "4.17.20",
-    "minimist": "^1.2.5"
+    "lodash": "4.18.0",
+    "minimist": "^1.2.6"
   }
 }
