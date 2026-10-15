@@ -1,0 +1,8 @@
+# Ambit AutoFix settings for this repository (lab test of per-repository overrides).
+autofix:
+  pr_config:
+    branch_prefix: "sec/"
+    commit_prefix: "fix(deps): "
+    labels: "from-file,$SEVERITY"
+    draft_pr: true
+    auto_merge: true
