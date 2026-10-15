@@ -4,5 +4,5 @@ autofix:
     branch_prefix: "sec/"
     commit_prefix: "fix(deps): "
     labels: "from-file,$SEVERITY"
-    draft_pr: true
+    draft_pr: false
     auto_merge: true
