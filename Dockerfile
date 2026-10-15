@@ -1,4 +1,4 @@
-FROM node:20.10-alpine
+FROM node:24.22-alpine
 LABEL org.opencontainers.image.source=https://github.com/datasetlabs/autofix-automerge
 WORKDIR /app
 COPY package.json package-lock.json ./
