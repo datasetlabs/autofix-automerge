@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "lodash": "4.17.20",
-    "minimist": "^1.2.6"
+    "minimist": "^1.2.5"
   }
 }
